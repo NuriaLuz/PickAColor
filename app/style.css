@@ -22,7 +22,7 @@ body {
   flex-grow: 1;
   max-height: 10%;
   min-height: 40px;
-  background-color: #222222;
+  background-color: #121010;
   color: white;
   display: flex;
   align-items: center;
@@ -65,12 +65,4 @@ body {
 .blue {
   background-color: #1d4fda;
 }
-.violet {
-  background-color: #462446;
-}
-.black {
-  background-color: #000000;
-}
-.white {
-  background-color: #ffffff;
-}
+
